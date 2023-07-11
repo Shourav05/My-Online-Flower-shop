@@ -128,8 +128,38 @@ nav div {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
-    margin-bottom: 576px;
 }
+
+/* optional section */
+
+.optional {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 128px 240px 128px 240px;
+    align-items: center;
+}
+
+.optional-images {
+    width: 88px;
+    height: 88px;
+    display: flex;
+    gap: 356px;
+    padding-top: 86px;
+    padding-left: 317px;
+}
+
+.optional-description {
+    display: flex;
+    gap: 100px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    padding: 24px 175px 87px 175px;
+}
+
 
 /* hot deal section */
 
